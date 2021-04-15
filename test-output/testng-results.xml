@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6320" started-at="2021-04-14T23:09:36 CDT" finished-at="2021-04-14T23:09:43 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6320" started-at="2021-04-14T23:09:36 CDT" finished-at="2021-04-14T23:09:43 CDT">
+      <class name="Test01_GET">
+        <test-method status="PASS" signature="deleteSpecificemployeeInfo()[pri:0, instance:Test01_GET@57e1b0c]" name="deleteSpecificemployeeInfo" duration-ms="3265" started-at="2021-04-14T23:09:36 CDT" finished-at="2021-04-14T23:09:40 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteSpecificemployeeInfo -->
+        <test-method status="PASS" signature="getEmployeeDetails()[pri:0, instance:Test01_GET@57e1b0c]" name="getEmployeeDetails" duration-ms="744" started-at="2021-04-14T23:09:40 CDT" finished-at="2021-04-14T23:09:40 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getEmployeeDetails -->
+        <test-method status="PASS" signature="getSpecificEmployeeDetails()[pri:0, instance:Test01_GET@57e1b0c]" name="getSpecificEmployeeDetails" duration-ms="1571" started-at="2021-04-14T23:09:40 CDT" finished-at="2021-04-14T23:09:42 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSpecificEmployeeDetails -->
+        <test-method status="PASS" signature="testRESTAPI()[pri:0, instance:Test01_GET@57e1b0c]" name="testRESTAPI" duration-ms="691" started-at="2021-04-14T23:09:42 CDT" finished-at="2021-04-14T23:09:43 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRESTAPI -->
+      </class> <!-- Test01_GET -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
